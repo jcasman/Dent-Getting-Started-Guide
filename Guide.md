@@ -1,7 +1,7 @@
 # Documentation guide for developers
 
 
-This document will serve as a guide for developers that want to build and modify the dentOS operating system.
+This document will serve as a guide for developers that want to build and modify DentOS.
 This documentation is intended as a guideline for developers, not end users. It is also intended for developers who would like to include a derivative package for their customers.
 
 DentOS is a Network Operating System (NOS) that is based on switchdev and built on top of Open Network Linux. 
